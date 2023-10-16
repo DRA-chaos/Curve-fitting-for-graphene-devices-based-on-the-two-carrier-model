@@ -9,5 +9,6 @@ transport, which can be explained by the two-carrier model described below :
 where ne(nh) and μe(μh) are the carrier density and mobility of electrons (holes), respectively. According to the first equation, the Hall resistivity reverses its sign 
 at a critical magnetic field Bc. In case of μe > μh, the increase of electron concentration with increasing temperature will lead to an increase int the critical magnetic field.
 
-The script is written using the Differential evolution algorithm for global optimization. Machine Learning , Deep learning and other advance data science pedagogoes could 
-not be deployed because of the scanty numbe rof data points ( merely 50) obtained from the Hall probe making this automated curve fitting script a tricky problem.
+The [script](https://github.com/DRA-chaos/Curve-fitting-for-graphene-devices-based-on-the-two-carrier-model/blob/main/Curve%20Fitting%20scripts/two%20band%20model%20graphene.py) is written using the Differential evolution algorithm for global optimization. Machine Learning , Deep learning and other advanced data science pedagogoes could 
+not be deployed because of the scanty numbe rof data points ( merely 50) obtained from the Hall probe making this automated curve fitting script a tricky problem. The data can be made available upon request, 
+please contact Dr Karthik V Raman at TIFR-H for the same.
